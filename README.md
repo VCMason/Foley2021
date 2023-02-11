@@ -41,7 +41,7 @@ Script Editor: Andrew Harris
 
 Example hypothesis file MammalHypotheses.txt
 
-Hypothesis file format has three sections per hypothesis delimited by "|" . Indicidual species names are delimited by ", ". File follows a .fasta-like format
+Hypothesis file format has three sections per hypothesis delimited by "|" . Individual species names are delimited by ", ". File follows a .fasta-like format
 
 >hypothesis_1
 All species in the test clade | Required species from the test clade | Outgroup species
