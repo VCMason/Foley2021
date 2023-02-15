@@ -1,6 +1,9 @@
 # Foley2021
 
-# Zenodo archive DOI: https://zenodo.org/badge/latestdoi/377428169
+# Zenodo archive DOI: 
+
+[![DOI](https://zenodo.org/badge/377428169.svg)](https://zenodo.org/badge/latestdoi/377428169)
+
 
 Scripts used for "A genomic timescale for placental mammal evolution" (Foley et al. 2021)
 
